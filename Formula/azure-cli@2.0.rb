@@ -3,9 +3,8 @@ class AzureCliAT20 < Formula
 
   desc "Microsoft Azure CLI 2.0"
   homepage "https://docs.microsoft.com/en-us/cli/azure/overview"
-  url "https://azurecliprod.blob.core.windows.net/releases/azure-cli_packaged_0.2.10.tar.gz"
-  url "https://azurecliprod.blob.core.windows.net/releases/azure-cli_packaged_2.0.8.tar.gz"
-  sha256 "c1d4f6154cdce38b1b8d14000f0215b0d8e1032bf40feabcb80fc0c48005bc2b"
+  url "https://azurecliprod.blob.core.windows.net/releases/azure-cli_packaged_2.0.9.tar.gz"
+  sha256 "e74150b2db2975e8b17710eb7ef270ded16e6a8c27f77929544533f6b4c33b76"
   head "https://github.com/Azure/azure-cli.git"
 
   depends_on :python if MacOS.version <= :snow_leopard

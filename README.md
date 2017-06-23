@@ -1,5 +1,7 @@
 # Homebrew Azure CLI 2.0
 
+[![Release History](https://img.shields.io/badge/az-2.0.9-00abec.svg?style=flat)](https://github.com/Azure/azure-cli/blob/master/packaged_releases/HISTORY.md)
+
 Homebrew Formula for Azure CLI 2.0.
 
 ## Installation
