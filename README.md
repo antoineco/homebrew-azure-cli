@@ -4,6 +4,8 @@
 
 Homebrew Formula for Azure CLI 2.0.
 
+:warning: **This formula is now available in the Homebrew Core as [`azure-cli`][core-formula].**
+
 ## Installation
 
 Add this repo as a tap:
@@ -17,3 +19,5 @@ Install the Formula:
 ```
 brew install azure-cli@2.0
 ```
+
+[core-formula]: https://github.com/Homebrew/homebrew-core/blob/master/Formula/azure-cli.rb
